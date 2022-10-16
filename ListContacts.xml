@@ -1,0 +1,44 @@
+<CONTACTS>
+<person>
+<AGE>21</AGE>
+<NAME>Melissa Bou Khalil</NAME>
+<NUMBER>76542</NUMBER>
+<JOB>Undergraduate Student</JOB>
+</person>
+<person>
+<AGE>22</AGE>
+<NAME>Marc Haber</NAME>
+<NUMBER>87654</NUMBER>
+<JOB>Graduate Assistant</JOB>
+</person>
+<person>
+<AGE>78</AGE>
+<NAME>Marie Kalakesh</NAME>
+<NUMBER>01234</NUMBER>
+<JOB>Retired</JOB>
+</person>
+<person>
+<AGE>27</AGE>
+<NAME>Stephanie Ghazal</NAME>
+<NUMBER>34509</NUMBER>
+<JOB>Dermatologist</JOB>
+</person>
+<person>
+<AGE>25</AGE>
+<NAME>Rachelle Haber</NAME>
+<NUMBER>09876</NUMBER>
+<JOB>PHD Student</JOB>
+</person>
+<person>
+<AGE>47</AGE>
+<NAME>Walid Andraos</NAME>
+<NUMBER>45671</NUMBER>
+<JOB>Engineer</JOB>
+</person>
+<person>
+<AGE>47</AGE>
+<NAME>May Bou Khalil</NAME>
+<NUMBER>89123</NUMBER>
+<JOB>Nurse</JOB>
+</person>
+</CONTACTS>
